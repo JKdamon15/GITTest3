@@ -4,4 +4,8 @@
  * @date： 2020/11/5 19:48
  */
 public class Student {
+    public static void main(String[] args) {
+
+
+    }
 }
